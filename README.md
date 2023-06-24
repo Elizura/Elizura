@@ -10,5 +10,5 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,java,html,css,git,js,ts,react,angular,express,flutter,dart,tailwind,nodejs,nestjs,mysql&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,java,html,css,git,js,ts,react,angular,express,Nodeflutter,dart,tailwind,nodejs,nestjs,mysql&theme=dark)](https://skills.thijs.gg)
 
