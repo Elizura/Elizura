@@ -6,8 +6,6 @@
 
 ## 🌐 Socials:
 
-//[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisur-freyesus-439066114/)
-
 # 💻 Tech Stack:
 
 [![My Skills](https://skills.thijs.gg/icons?i=py,java,html,css,git,js,ts,react,angular,nodejs,express,flutter,dart,tailwind,nestjs,mysql&theme=dark)](https://skills.thijs.gg)
