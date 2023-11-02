@@ -8,9 +8,3 @@
 # 💻 Tech Stack:
 
 [![My Skills](https://skills.thijs.gg/icons?i=py,java,html,css,git,js,ts,react,angular,nodejs,express,flutter,dart,tailwind,nestjs,mysql&theme=dark)](https://skills.thijs.gg)
-
-<div style="width:100%; overflow:auto;">
-<div style="width:50%; float:left;">
-<h2>My Github Status</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=elizura&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-</div>
